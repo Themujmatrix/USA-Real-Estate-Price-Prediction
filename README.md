@@ -75,26 +75,6 @@ For model scores from **this notebook**, run its cells and inspect the generated
 
 > The original CSV is omitted from this repository because it is large. Download it from Kaggle. Check the source dataset license and attribution requirements before redistributing it.
 
-## Project structure
-
-```text
-USA_Realtor_Price_Prediction/
-├── README.md
-├── USA_Realtor_Price_Prediction.ipynb
-├── Project_Proposal.docx
-├── Project_Proposal.md
-├── requirements.txt
-├── .gitignore
-├── prior_benchmark_results.csv
-└── images/
-    ├── 01_price_distribution.png
-    ├── 02_feature_correlations.png
-    ├── 03_house_size_vs_price.png
-    ├── 04_median_price_by_state.png
-    ├── 05_missing_values.png
-    └── 06_prior_benchmark_model_scores.png
-```
-
 ## Limitations
 
 - The target is **advertised listing price**, not confirmed final sale price.
